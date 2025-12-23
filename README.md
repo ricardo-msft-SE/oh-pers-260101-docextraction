@@ -44,7 +44,7 @@ Avoid pushing AI into the *core* of the decisioning when:
 
 ### Diagram
 
-![Deterministic Single-Agent + Logic Apps Architecture](docs/arch.jpg)
+![Deterministic Single-Agent + Logic Apps Architecture](arch.jpg)
 
 ---
 
